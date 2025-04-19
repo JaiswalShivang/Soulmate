@@ -9,7 +9,7 @@ import Error from "./components/Error";
 import Matches from "./components/Matches";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
-import Mbti from "./components/MBTI";
+import Mbti from "./components/Mbti";
 const router = createBrowserRouter([
   {
     path: "/",
